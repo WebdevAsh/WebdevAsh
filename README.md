@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WebdevAsh
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on New Projects WebSite etc...
 - 📫 How to reach me aschaudhary330@gmail.com
 - 😄 Pronouns: Ash
